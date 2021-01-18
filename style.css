@@ -1,0 +1,50 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+/* sdlkfhökjdfs*/
+#wrap{
+margin:0 auto;
+text-align: center;
+}
+#nheader{
+	background-image: url('mmm.jpg');
+	background-size: cover;
+	background-position: bottom left;
+	background-attachment: fixed;
+	color: purple;
+	
+	padding: 25px;
+	height: 150px;
+
+}
+h1{color: white;}
+
+img{
+	border: dotted 2px white;
+}
+
+#paragraph{
+	background-color: #2980b9;
+	height: 350px;
+	padding-top:30px;
+}
+
+.text_paragraph{
+	background-image: url(said.jpg);
+	background-size: cover;
+	background-attachment: bottom;
+
+	color: white;
+	font-size: 30px;
+	font-family: verdana;
+
+}
+.redColor{
+	color: red;
+}
+
+#footer{
+	/*background-color: blue;*/
+	height: 150px;
+}
